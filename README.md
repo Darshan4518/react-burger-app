@@ -1,7 +1,6 @@
 # React-burger-static-website
 
 Hero section
-![Screenshot 2024-08-01 174422](https://github.com/user-attachments/assets/6dfbe2a5-16a1-42c5-ae63-33043873a539)
 
 explore menu section
 ![Screenshot 2024-09-14 143108](https://github.com/user-attachments/assets/df3b6baf-e104-4b4e-8b8f-65467efcbe9a)
