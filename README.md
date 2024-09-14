@@ -1,6 +1,6 @@
 # React-burger-static-website
 
-<h3>Project Live link : <a href="https://react-burger-app-fawn.vercel.app">click here</a>  </h3>
+<h3>Project Live link : <a href="https://react-burger-app-fawn.vercel.app" target="_blank">click here</a>  </h3>
 
 
 <h1>Hero section</h1>
